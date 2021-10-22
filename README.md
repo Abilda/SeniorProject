@@ -1,4 +1,6 @@
 # SeniorProject
+Currently (22.10.2021), here is a draft version of Identity provider which allows to authenticate/authorize user by username and password.
+
 1) https://identityprovider20211022130944withdbonazure.azurewebsites.net/create - endpoint for new user creation
 HttpPost request with a Body in the following format:
 {
