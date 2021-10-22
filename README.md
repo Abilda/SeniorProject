@@ -11,8 +11,8 @@ HttpPost request with a Body in the following format:
   "Password" : "new password"
 }
 Expected output:
-  if user creation succeeded, the created user model would be returned
-  otherwise, the request would return the reason for failure.
+  if user creation succeeded, the created user model would be returned.
+  Otherwise, the request would return the reason for failure.
 
 2) https://identityprovider20211022130944withdbonazure.azurewebsites.net/login - endpoint for user authentication
 The request is also HttpPost and the expected body format is the same with the user creation:
@@ -21,5 +21,5 @@ The request is also HttpPost and the expected body format is the same with the u
   "Password" : "new password"
 }
 Expected output:
-  jwt token if succeeded
-  otherwise the reason for failure
+  jwt token if succeeded.
+  Otherwise the reason for failure
