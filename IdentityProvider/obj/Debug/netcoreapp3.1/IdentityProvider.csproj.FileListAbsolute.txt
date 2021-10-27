@@ -64,6 +64,7 @@ C:\Users\v-aalimbay\source\repos\RestaInitial\IdentityProvider\obj\Debug\netcore
 C:\Users\v-aalimbay\source\repos\RestaInitial\IdentityProvider\obj\Debug\netcoreapp3.1\staticwebassets\IdentityProvider.StaticWebAssets.xml
 C:\Users\v-aalimbay\source\repos\RestaInitial\IdentityProvider\obj\Debug\netcoreapp3.1\scopedcss\bundle\IdentityProvider.styles.css
 C:\Users\v-aalimbay\source\repos\RestaInitial\IdentityProvider\obj\Debug\netcoreapp3.1\IdentityProvider.RazorTargetAssemblyInfo.cache
+C:\Users\v-aalimbay\source\repos\RestaInitial\IdentityProvider\obj\Debug\netcoreapp3.1\IdentityProvider.csproj.CopyComplete
 C:\Users\v-aalimbay\source\repos\RestaInitial\IdentityProvider\obj\Debug\netcoreapp3.1\IdentityProvider.dll
 C:\Users\v-aalimbay\source\repos\RestaInitial\IdentityProvider\obj\Debug\netcoreapp3.1\IdentityProvider.pdb
 C:\Users\v-aalimbay\source\repos\RestaInitial\IdentityProvider\obj\Debug\netcoreapp3.1\IdentityProvider.genruntimeconfig.cache
